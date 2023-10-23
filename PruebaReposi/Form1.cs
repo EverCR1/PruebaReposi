@@ -26,7 +26,12 @@ namespace PruebaReposi
         {
             //PRUEBA 1
 <<<<<<< HEAD
+<<<<<<< HEAD
             
+=======
+            //prueba
+
+>>>>>>> d95a4a40dd8a7fe1d07553215e69fe20f2f85a1e
 =======
             //prueba
 

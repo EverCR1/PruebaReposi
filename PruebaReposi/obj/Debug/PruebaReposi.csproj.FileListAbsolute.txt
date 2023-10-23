@@ -1,0 +1,5 @@
+C:\Users\Ever Corazón\source\repos\PruebaReposi\PruebaReposi\obj\Debug\PruebaReposi.csproj.AssemblyReference.cache
+C:\Users\Ever Corazón\source\repos\PruebaReposi\PruebaReposi\obj\Debug\PruebaReposi.Form1.resources
+C:\Users\Ever Corazón\source\repos\PruebaReposi\PruebaReposi\obj\Debug\PruebaReposi.Properties.Resources.resources
+C:\Users\Ever Corazón\source\repos\PruebaReposi\PruebaReposi\obj\Debug\PruebaReposi.csproj.GenerateResource.cache
+C:\Users\Ever Corazón\source\repos\PruebaReposi\PruebaReposi\obj\Debug\PruebaReposi.csproj.CoreCompileInputs.cache
